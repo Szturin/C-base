@@ -1,0 +1,3 @@
+﻿  常量03.cpp
+D:\项目\c++ 书写hello world\c++ 书写hello world\常量03.cpp(1,1): warning C4828: 文件包含在偏移 0x156 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  c++ 书写hello world.vcxproj -> D:\项目\c++ 书写hello world\x64\Debug\c++ 书写hello world.exe
