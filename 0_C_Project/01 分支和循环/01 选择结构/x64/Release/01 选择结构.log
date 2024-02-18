@@ -1,0 +1,33 @@
+﻿  01 代码书写.c
+  02 switch.c
+  03 while循环.c
+  03_1 while.c
+D:\2_c++_项目\0_C_Project\01 选择结构\01 选择结构\03_1 while.c(1,1): warning C4828: 文件包含在偏移 0x121 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  03_2 getchar.c
+  03_3 getchar.c
+  03_4 getchar.c
+  04 for循环.c
+  作业 11.c
+  作业10.c
+  作业11_1.c
+  作业11_2.c
+  作业7.C
+  作业8.c
+  作业9.c
+  关机程序.c
+  猜数字 .c
+  练习4 字符汇聚.c
+D:\2_c++_项目\0_C_Project\01 选择结构\01 选择结构\练习4 字符汇聚.c(10,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  04_1 for循环.c
+  05 do while循环.c
+  正在编译...
+  练习1 n的阶乘.c
+  练习2 1!+2!+ .c
+  练习3 二分值法 .c
+D:\2_c++_项目\0_C_Project\01 选择结构\01 选择结构\练习3 二分值法 .c(1,1): warning C4828: 文件包含在偏移 0x2fc 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  练习5 密码验证程序.c
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  01 选择结构.vcxproj -> D:\2_c++_项目\0_C_Project\01 选择结构\x64\Release\01 选择结构.exe
