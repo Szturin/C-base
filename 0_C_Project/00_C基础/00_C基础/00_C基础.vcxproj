@@ -130,7 +130,18 @@
     <ClCompile Include="02 求平均值.c" />
     <ClCompile Include="01 求数组中的最大值.c" />
     <ClCompile Include="03 变量的作用域和生命周期.c" />
-    <ClCompile Include="test01.c" />
+    <ClCompile Include="05 操作符 常见关键字2.c" />
+    <ClCompile Include="06 define定义常量和宏.c" />
+    <ClCompile Include="07  指针.c" />
+    <ClCompile Include="00 test.c" />
+    <ClCompile Include="04 操作符 常见关键字1.c" />
+    <ClCompile Include="08 结构体.c" />
+    <ClCompile Include="BC3.c" />
+    <ClCompile Include="作业01.c" />
+    <ClCompile Include="作业02.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="git的使用方法.md" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
